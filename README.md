@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Data Science, Statistics and Programming
+- 🌱 I’m currently learning AI, Statistics, and Programming
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeodatoBastos&count_private=true&show_icons=true&theme=aura)
+<!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeodatoBastos&count_private=true&show_icons=true&theme=aura)--->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeodatoBastos&hide=jupyter%20notebook&layout=compact&theme=aura&langs_count=6)
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
